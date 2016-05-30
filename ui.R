@@ -66,9 +66,9 @@ shinyUI(navbarPage(h4("Coursera: Data Science Capstone Project"),
                              tags$footer(("© 2016 - "), 
                                          tags$a(
                                            
-                                           href="https://www.linkedin.com/in/eGyaan",
+                                           href="https://www.linkedin.com/in/Prabes15",
                                            target="_blank",
-                                           "Gyaan GM."), 
+                                           "Prabesh Shrestha"), 
                                          tags$br(),
                                          ("Built using"), tags$a(
                                            href="http://www.r-project.org/",
