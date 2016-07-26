@@ -1,3 +1,5 @@
+#practice some own script to test for final project 
+
 library(doParallel)
 registerDoParallel(makeCluster(4))
 library(stringr)
